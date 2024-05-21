@@ -19,7 +19,7 @@ const Card = ({ room }) => {
                 object-cover 
                 h-full 
                 w-full 
-                group-hover:scale-150 
+                group-hover:scale-110 
                 transition
               '
             src={room?.image}
