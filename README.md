@@ -1,4 +1,4 @@
-# stayVista-starter-template
+# stayVista-complete
 
 ### Important Links:
 
